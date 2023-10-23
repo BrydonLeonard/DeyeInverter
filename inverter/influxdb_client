@@ -1,0 +1,3 @@
+class InfluxDbClient:
+    def __init__(self):
+        raise "Not yet implemented"
